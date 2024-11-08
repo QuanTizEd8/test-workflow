@@ -1,6 +1,6 @@
 name: Sub2 Workflow
 on:
-  workflow_dispatch:
+  workflow_call:
 jobs:
   main:
     name: Main2 Job
