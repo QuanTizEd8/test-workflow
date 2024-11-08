@@ -1,6 +1,6 @@
 name: Nested Workflow
 on:
-  workflow_dispatch:
+  workflow_call:
 jobs:
   main:
     name: Main Sub Job
