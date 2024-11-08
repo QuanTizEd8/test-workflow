@@ -1,0 +1,11 @@
+name: Sub2 Workflow
+on:
+  workflow_dispatch:
+jobs:
+  main:
+    name: Main2 Job
+    uses: ./.github/workflows/nested_3.yaml
+  sub:
+    name: Sub2 Job
+    uses: ./.github/workflows/nested_3.yaml
+    
