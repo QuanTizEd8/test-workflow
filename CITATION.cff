@@ -4,6 +4,7 @@ authors:
     given-names: Stephan
     orcid: "https://orcid.org/1234-5678-9101-1121"
 cff-version: 1.2.0
+doi: 10.5281/zenodo.123456
 date-released: "2021-07-18"
 identifiers:
   - description: "This is the collection of archived snapshots of all versions of My Research Software"
