@@ -17,7 +17,7 @@ keywords:
   - "awesome software"
   - research
 license: Apache-2.0
-message: "If you use this software, please cite it using these metadata."
+message: "CUSTOM MESSAGE HERE"
 repository-code: "https://github.com/citation-file-format/my-research-software"
 title: "My Research Software"
 version: 0.11.2
